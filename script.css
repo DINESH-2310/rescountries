@@ -1,0 +1,72 @@
+div.card-body{
+    background-color: aquamarine;
+}
+.body{
+    background-color: rgba(11, 100, 243, 0.859)
+}
+div.row-m-3{
+    text-align: center
+    padding 130px 130px
+}
+div.col-lg-4.col-sm-12{
+    background-color: rgba(249, 249, 251, 0.859)!important;
+    border-width: 0cm;
+    align-items:center;
+    box-shadow: 15px 20px 20px rgb(70, 64, 64),
+                inset 4px 4px 10px white;
+    border-radius: 20px !important;
+    overflow: hidden;
+    justify-content: center;
+    margin: 20px 20px;
+    padding-top: 30px;
+   
+}
+.div.col-md-3:hover{
+    
+    box-shadow: inset 5px 5px 10px rgb(70, 64, 64),
+                 -4px -4px 10px white;
+
+}
+div.card.card text-white bg-primary mb-3{
+    align-items: center;
+    margin: 20px 20px 20px 20px;
+    height: 30%;
+    
+ 
+}
+img.card-img-top{
+    width: 230px;
+    height: 150px;
+    background-color: rgb(248, 248, 252);
+}
+h2.card-title{
+    text-align: center;
+    background-color: rgb(248, 248, 252);
+    color: black;
+}
+h5.card-title{
+text-align: center;
+}
+a.btn.btn-primary{
+    align-items: center;
+    /* background-color: rgb(18, 242, 242); */
+    color: black;
+    border-radius: 20px 20px;
+}
+.card-header{
+    color:rgb(255, 255, 255);
+    font-size: 30px;
+    text-align: center;
+    background:rgb(0, 0, 0);
+    margin-top: 10px;
+    
+}
+div.card-body{
+    color:rgb(11, 11, 11);
+        text-align: center;
+        padding-bottom: 20px;
+        padding-top: 20px;
+        background: rgb(245, 241, 234);
+        font-family: 'Roboto', sans-serif;
+}
+
